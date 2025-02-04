@@ -1,0 +1,21 @@
+*{
+    background-color: #F5F5F5;
+    margin: 1px;
+    padding: 0px;
+}
+/* navbar style */
+.navbar{
+   
+    display: flex;
+    justify-content: space-around;
+   padding-top: 24px;
+}
+/* navbar btn styel */
+.resume-btn{
+    padding: 15px 30px ;
+    border: 1px solid #006A50 ;
+    border-radius: 8px ;
+    font-weight: 600;
+     color: #006A50;
+     background-color: #F5F5F5;
+}
