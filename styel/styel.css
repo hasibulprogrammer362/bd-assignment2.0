@@ -1,8 +1,9 @@
+body{
+      background-color:#F5F5F5; 
+}
+  
 
   
-    /* margin: 1px;
-    padding: 0px;
-} */
 /* navbar style */
 .navbar{
    
@@ -26,7 +27,7 @@
     130px ;
     background-color: #C6E4D6;
     width: 1280px;
-    height: 560px;
+     height: 560px;
     border-radius: 24px;
     justify-content: center;
     align-items: center;
@@ -34,7 +35,7 @@
     gap: 64px ;
 }
 .banner-title{
-    
+    /* background-color: #C6E4D6; */
     font-weight: 500;
     font-size: 24px;
    color: rgba(14, 14, 14, 0.5);
@@ -52,7 +53,8 @@
 
 }
 .btn-primary{
-  
+
+    
     padding: 15px 30px ;
     border: 1px solid #006A50 ;
     border-radius: 8px ;
@@ -60,3 +62,81 @@
      color:#F5F5F5;
      background-color: #006A50 ;
 }
+/* main style */
+.The-Vision-of-Future{
+ text-align: start;
+ padding-left: 125px ;
+ padding-top: 50px;
+}
+.main-hedr{ 
+   
+    font-size: 40px;
+    font-weight: 900;
+}
+.main-description{
+    font-size: 16px;
+font-weight: 400;
+    color: rgba(14, 14, 14, 0.5);
+
+}
+.content-styel{
+    display: flex;
+    justify-content: space-around;
+}
+.Digital-Transformation{
+    width: 300px ;
+    background-color: #5490F533;
+   border-radius: 16px ;
+   padding: 32px;
+
+    
+}
+.Green_Energy{
+    width: 300px ;
+    background-color: #C6E4D6;
+   border-radius: 16px ;
+   padding: 24px;
+
+}
+.Modern-Infrastructure{
+    width: 300px ;
+    background-color: #F7EBCF;
+   border-radius: 16px ;
+   padding: 24px;
+
+}
+.title-styel{
+    font-size: 16px;
+    font-weight: 400;
+    color:rgba(14, 14, 14, 0.7);
+}
+.btn-styel1{  padding: 15px 30px ;
+    border: none;
+    border-radius: 8px ;
+    font-weight: 600;
+     color:#F5F5F5;
+     background-color:#5490F5 ;
+
+}
+.btn-styel2{
+    padding: 15px 30px ;
+    border: none;
+    border-radius: 8px ;
+    font-weight: 600;
+     color:#F5F5F5;
+     background-color: #09A15C ;
+
+}
+.btn-styel3{
+    padding: 15px 30px ;
+    border: none;
+    border-radius: 8px ;
+    font-weight: 600;
+     color:#F5F5F5;
+     background-color: #FFC239 ;
+
+}
+
+
+
+
