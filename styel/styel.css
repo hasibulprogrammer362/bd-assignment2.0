@@ -190,6 +190,125 @@ color:#0E0E0ECC;
 }
 
 
+/* footer-styel */
+.footer-styel{
+    text-align: center;
+}
+
+
+.donet-styel{
+    font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+color: #0E0E0E;
+}
+
+.donet-titel{
+    font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+color: #0E0E0EB3;
+}
 
 
 
+.hover{
+    height: 100px ;
+    /* width: 200px ; */
+  gap: 0 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+}
+.btn1{
+    background-color: white;
+    font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+
+    padding: 15px 30px ;
+    border: 1px solid #C6E4D6 ;
+    border-radius: 8px ;
+    font-weight: 600;
+     color:#0E0E0ECC;
+
+     
+}
+.btn2{
+    font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+    padding: 15px 30px ;
+    border: 1px solid #C6E4D6 ;
+    border-radius: 8px ;
+    font-weight: 600;
+    background-color: #C6E4D6;  
+}
+.btn3{
+    background-color: white;
+    font-family: Fira Sans;
+    font-size: 40px;
+   font-weight: 700;
+   line-height: 48px;
+    padding: 15px 30px ;
+    border: 1px solid #C6E4D6 ;
+    border-radius: 8px ;
+    font-weight: 600;
+     color:#0E0E0ECC;
+}
+
+.amount{
+   display: flex;
+   justify-content: center;
+    
+    
+}
+.amount-txt{
+   
+    padding: 20px 40px ;
+    color: #0E0E0E4D;
+    width: 900px;
+
+text-align: center;
+background-color: white;
+
+}
+
+.done-new{
+    display: flex;
+    justify-content: center;
+}
+ 
+.done-btn{
+    padding: 15px 30px ;
+    border: 1px solid #006A50 ;
+    border-radius: 8px ;
+    font-weight: 600;
+     color:#F5F5F5;
+     background-color: #006A50 ;
+
+}
+.bd2{
+    
+    display: flex;
+    justify-content: center;
+    font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+
+color: #0E0E0E;
+
+}
+.fb-img{
+    margin-top: 34px;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+   
